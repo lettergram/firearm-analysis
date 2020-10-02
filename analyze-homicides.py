@@ -42,7 +42,7 @@ for year in years:
     country_data[year] = geo_us_data.where(year_filter).dropna()
 
 # Generate figures
-output_path = 'data/geo-us-murder-rate/'
+output_path = 'images/geo-us-murder-rate/'
 ymin, ymax = 0, max(geo_us_data['Rate'])
 for year in years:
 
@@ -73,8 +73,8 @@ for year in years:
     us_map.tight_layout()
 
 # Create gif, images should be in order due to name
-image_files = glob.glob("data/geo-us-murder-rate/*")
+image_files = glob.glob("images/geo-us-murder-rate/*")
 image_files.sort()
 images = [imageio.imread(image) for image in image_files]
-imageio.mimwrite('murders-us-overtime.gif', images,
+imageio.mimwrite('images/murders-us-overtime.gif', images,
                  fps=1, palettesize=128)

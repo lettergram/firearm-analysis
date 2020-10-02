@@ -1,0 +1,7 @@
+RAND State-Level Firearm Ownership Database
+Version 1.0 April 1, 2020
+Developed by the RAND Corporation
+
+This file contains estimates of the proportion of adult, noninstitutionalized residents in each U.S. state and year (1980–2016) who live in a household with a firearm, as well as the data used to produce these estimates.
+
+This file supplements the document State-Level Estimates of Household Firearm Ownership, by Terry L. Schell, Samuel Peterson, Brian G. Vegetabile, Adam Scherling, Rosanna Smart, and Andrew R. Morral. Estimates of household firearm ownership rates were constructed using a structural equation model, as described in the document, which can be accessed for free at https://www.rand.org/pubs/tools/TL354.html. 
