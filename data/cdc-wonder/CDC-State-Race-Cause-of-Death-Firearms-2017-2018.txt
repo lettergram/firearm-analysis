@@ -1,0 +1,733 @@
+"Notes"	"State"	"State Code"	"Race"	"Race Code"	"Year"	"Year Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	18	1335240	Unreliable
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	29	1335240	2.2
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	59	1335240	4.4
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	1335240	Unreliable
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	304	1335240	22.8
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	22	1338846	1.6
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	1338846	2.8
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	58	1338846	4.3
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	1338846	Unreliable
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	262	1338846	19.6
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	12	3419705	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	97	3419705	2.8
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	45	3419705	1.3
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	378	3419705	11.1
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	18	3419705	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	102	3419705	3.0
+	"Alabama"	"01"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	14	3419705	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	13	3426745	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	77	3426745	2.2
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	31	3426745	0.9
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	377	3426745	11.0
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	15	3426745	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	10	3426745	Unreliable
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	107	3426745	3.1
+	"Alabama"	"01"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	12	3426745	Unreliable
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	127624	Unreliable
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	127624	Unreliable
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	11	127624	Unreliable
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	128033	Unreliable
+	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	11	128033	Unreliable
+	"Alaska"	"02"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	10	36257	Unreliable
+	"Alaska"	"02"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	27	512623	5.3
+	"Alaska"	"02"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	43	512623	8.4
+	"Alaska"	"02"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	21	512623	4.1
+	"Alaska"	"02"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	43	507912	8.5
+	"Alaska"	"02"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	32	507912	6.3
+	"Alaska"	"02"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	507912	Unreliable
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	400322	5.0
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	16	400322	Unreliable
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22	407595	5.4
+	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	23	407595	5.6
+	"Arizona"	"04"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	397421	5.0
+	"Arizona"	"04"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	53	397421	13.3
+	"Arizona"	"04"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	31	413873	7.5
+	"Arizona"	"04"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	61	413873	14.7
+	"Arizona"	"04"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	91	5925685	1.5
+	"Arizona"	"04"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	56	5925685	0.9
+	"Arizona"	"04"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	582	5925685	9.8
+	"Arizona"	"04"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	217	5925685	3.7
+	"Arizona"	"04"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	13	5925685	Unreliable
+	"Arizona"	"04"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	116	6039570	1.9
+	"Arizona"	"04"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	65	6039570	1.1
+	"Arizona"	"04"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	554	6039570	9.2
+	"Arizona"	"04"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	193	6039570	3.2
+	"Arizona"	"04"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	11	6039570	Unreliable
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	487926	Unreliable
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	114	487926	23.4
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	489759	Unreliable
+	"Arkansas"	"05"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	126	489759	25.7
+	"Arkansas"	"05"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	46	2420319	1.9
+	"Arkansas"	"05"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	30	2420319	1.2
+	"Arkansas"	"05"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	284	2420319	11.7
+	"Arkansas"	"05"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	60	2420319	2.5
+	"Arkansas"	"05"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	47	2424998	1.9
+	"Arkansas"	"05"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	36	2424998	1.5
+	"Arkansas"	"05"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	245	2424998	10.1
+	"Arkansas"	"05"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	60	2424998	2.5
+	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	17	776662	Unreliable
+	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	12	777959	Unreliable
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	56	6548662	0.9
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	33	6548662	0.5
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	19	6548662	Unreliable
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	58	6548662	0.9
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	40	6626166	0.6
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	6626166	Unreliable
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	32	6626166	0.5
+	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	50	6626166	0.8
+	"California"	"06"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	29	2841787	1.0
+	"California"	"06"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	24	2841787	0.8
+	"California"	"06"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	59	2841787	2.1
+	"California"	"06"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	2841787	Unreliable
+	"California"	"06"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	346	2841787	12.2
+	"California"	"06"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	45	2851095	1.6
+	"California"	"06"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	34	2851095	1.2
+	"California"	"06"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	56	2851095	2.0
+	"California"	"06"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	279	2851095	9.8
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Handgun discharge"	"W32"	12	29369542	Unreliable
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	13	29369542	Unreliable
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	714	29369542	2.4
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	213	29369542	0.7
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	510	29369542	1.7
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	167	29369542	0.6
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	36	29369542	0.1
+	"California"	"06"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	717	29369542	2.4
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Handgun discharge"	"W32"	11	29301825	Unreliable
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	14	29301825	Unreliable
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	834	29301825	2.8
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	181	29301825	0.6
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	432	29301825	1.5
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	143	29301825	0.5
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	37	29301825	0.1
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	674	29301825	2.3
+	"California"	"06"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	13	29301825	Unreliable
+	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	108684	Unreliable
+	"Colorado"	"08"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	295430	Unreliable
+	"Colorado"	"08"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	32	295430	10.8
+	"Colorado"	"08"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	303260	Unreliable
+	"Colorado"	"08"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	48	303260	15.8
+	"Colorado"	"08"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	146	4982527	2.9
+	"Colorado"	"08"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	67	4982527	1.3
+	"Colorado"	"08"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	342	4982527	6.9
+	"Colorado"	"08"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	114	4982527	2.3
+	"Colorado"	"08"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	188	5050401	3.7
+	"Colorado"	"08"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	70	5050401	1.4
+	"Colorado"	"08"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	360	5050401	7.1
+	"Colorado"	"08"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	114	5050401	2.3
+	"Connecticut"	"09"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	47	456300	10.3
+	"Connecticut"	"09"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	32	459499	7.0
+	"Connecticut"	"09"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	2922942	Unreliable
+	"Connecticut"	"09"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	83	2922942	2.8
+	"Connecticut"	"09"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	22	2922942	0.8
+	"Connecticut"	"09"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	2903404	0.8
+	"Connecticut"	"09"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	92	2903404	3.2
+	"Connecticut"	"09"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	20	2903404	0.7
+	"Delaware"	"10"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	45	230038	19.6
+	"Delaware"	"10"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	36	233113	15.4
+	"Delaware"	"10"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	35	682095	5.1
+	"Delaware"	"10"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	10	682095	Unreliable
+	"Delaware"	"10"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	40	683930	5.8
+	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	78	336542	23.2
+	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	105	336228	31.2
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	25	3678445	0.7
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	61	3678445	1.7
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	68	3678445	1.8
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	3678445	Unreliable
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	474	3678445	12.9
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	35	3736443	0.9
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	79	3736443	2.1
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	65	3736443	1.7
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	10	3736443	Unreliable
+	"Florida"	"12"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	480	3736443	12.8
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	449	16488470	2.7
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	165	16488470	1.0
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	1000	16488470	6.1
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	60	16488470	0.4
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	19	16488470	Unreliable
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	306	16488470	1.9
+	"Florida"	"12"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	12	16488470	Unreliable
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	421	16721748	2.5
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	146	16721748	0.9
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	1170	16721748	7.0
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	63	16721748	0.4
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	16	16721748	Unreliable
+	"Florida"	"12"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	336	16721748	2.0
+	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	477375	Unreliable
+	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	12	491893	Unreliable
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	35	3447386	1.0
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	99	3447386	2.9
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	509	3447386	14.8
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	46	3499496	1.3
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	103	3499496	2.9
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	459	3499496	13.1
+	"Georgia"	"13"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	11	6444657	Unreliable
+	"Georgia"	"13"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	138	6444657	2.1
+	"Georgia"	"13"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	48	6444657	0.7
+	"Georgia"	"13"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	570	6444657	8.8
+	"Georgia"	"13"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	132	6444657	2.0
+	"Georgia"	"13"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	160	6466753	2.5
+	"Georgia"	"13"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	61	6466753	0.9
+	"Georgia"	"13"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	594	6466753	9.2
+	"Georgia"	"13"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	11	6466753	Unreliable
+	"Georgia"	"13"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	142	6466753	2.2
+	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	944282	Unreliable
+	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	940001	Unreliable
+	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	17	940001	Unreliable
+	"Hawaii"	"15"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	433320	Unreliable
+	"Hawaii"	"15"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	430497	Unreliable
+	"Idaho"	"16"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	163	1626437	10.0
+	"Idaho"	"16"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	54	1626437	3.3
+	"Idaho"	"16"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22	1626437	1.4
+	"Idaho"	"16"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	10	1626437	Unreliable
+	"Idaho"	"16"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	186	1660028	11.2
+	"Idaho"	"16"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	49	1660028	3.0
+	"Idaho"	"16"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	20	1660028	1.2
+	"Illinois"	"17"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	56	1950271	2.9
+	"Illinois"	"17"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	710	1950271	36.4
+	"Illinois"	"17"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	39	1940291	2.0
+	"Illinois"	"17"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	616	1940291	31.7
+	"Illinois"	"17"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	56	9988400	0.6
+	"Illinois"	"17"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	40	9988400	0.4
+	"Illinois"	"17"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	410	9988400	4.1
+	"Illinois"	"17"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	210	9988400	2.1
+	"Illinois"	"17"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	60	9917646	0.6
+	"Illinois"	"17"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	39	9917646	0.4
+	"Illinois"	"17"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	424	9917646	4.3
+	"Illinois"	"17"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	149	9917646	1.5
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	11	702537	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	24	702537	3.4
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	12	702537	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	212	702537	30.2
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	14	713302	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	17	713302	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	17	713302	Unreliable
+	"Indiana"	"18"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	209	713302	29.3
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	10	5758280	Unreliable
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	72	5758280	1.3
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	38	5758280	0.7
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	456	5758280	7.9
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	128	5758280	2.2
+	"Indiana"	"18"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	10	5758280	Unreliable
+	"Indiana"	"18"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	93	5763803	1.6
+	"Indiana"	"18"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	29	5763803	0.5
+	"Indiana"	"18"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	427	5763803	7.4
+	"Indiana"	"18"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	121	5763803	2.1
+	"Iowa"	"19"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	28	141575	19.8
+	"Iowa"	"19"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	12	146954	Unreliable
+	"Iowa"	"19"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	105	2895505	3.6
+	"Iowa"	"19"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	58	2895505	2.0
+	"Iowa"	"19"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	53	2895505	1.8
+	"Iowa"	"19"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	23	2895505	0.8
+	"Iowa"	"19"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	97	2896007	3.3
+	"Iowa"	"19"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	67	2896007	2.3
+	"Iowa"	"19"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	63	2896007	2.2
+	"Iowa"	"19"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	21	2896007	0.7
+	"Kansas"	"20"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	207469	Unreliable
+	"Kansas"	"20"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	46	207469	22.2
+	"Kansas"	"20"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	207156	Unreliable
+	"Kansas"	"20"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	43	207156	20.8
+	"Kansas"	"20"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	32	2562602	1.2
+	"Kansas"	"20"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	29	2562602	1.1
+	"Kansas"	"20"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	234	2562602	9.1
+	"Kansas"	"20"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	71	2562602	2.8
+	"Kansas"	"20"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	32	2559361	1.3
+	"Kansas"	"20"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	26	2559361	1.0
+	"Kansas"	"20"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	215	2559361	8.4
+	"Kansas"	"20"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	66	2559361	2.6
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	401334	Unreliable
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	98	401334	24.4
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	20	405485	4.9
+	"Kentucky"	"21"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	82	405485	20.2
+	"Kentucky"	"21"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	11	3959768	Unreliable
+	"Kentucky"	"21"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	47	3959768	1.2
+	"Kentucky"	"21"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	31	3959768	0.8
+	"Kentucky"	"21"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	372	3959768	9.4
+	"Kentucky"	"21"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	118	3959768	3.0
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	15	3966164	Unreliable
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	45	3966164	1.1
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	25	3966164	0.6
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	417	3966164	10.5
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	113	3966164	2.8
+	"Kentucky"	"21"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	10	3966164	Unreliable
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	67	1558498	4.3
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	426	1558498	27.3
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	63	1557173	4.0
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	397	1557173	25.5
+	"Louisiana"	"22"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	11	2988801	Unreliable
+	"Louisiana"	"22"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	29	2988801	1.0
+	"Louisiana"	"22"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	330	2988801	11.0
+	"Louisiana"	"22"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	84	2988801	2.8
+	"Louisiana"	"22"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	26	2968719	0.9
+	"Louisiana"	"22"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	14	2968719	Unreliable
+	"Louisiana"	"22"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	355	2968719	12.0
+	"Louisiana"	"22"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	76	2968719	2.6
+	"Maine"	"23"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	100	1280369	7.8
+	"Maine"	"23"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	40	1280369	3.1
+	"Maine"	"23"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	96	1281687	7.5
+	"Maine"	"23"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	36	1281687	2.8
+	"Maine"	"23"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	13	1281687	Unreliable
+	"Maryland"	"24"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	35	1926348	1.8
+	"Maryland"	"24"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	390	1926348	20.2
+	"Maryland"	"24"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	26	1932392	1.3
+	"Maryland"	"24"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	355	1932392	18.4
+	"Maryland"	"24"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	42	3643426	1.2
+	"Maryland"	"24"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	181	3643426	5.0
+	"Maryland"	"24"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	52	3643426	1.4
+	"Maryland"	"24"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	36	3628187	1.0
+	"Maryland"	"24"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	189	3628187	5.2
+	"Maryland"	"24"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	52	3628187	1.4
+	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	58	653142	8.9
+	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	56	669506	8.4
+	"Massachusetts"	"25"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	13	5666330	Unreliable
+	"Massachusetts"	"25"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	5666330	Unreliable
+	"Massachusetts"	"25"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	111	5666330	2.0
+	"Massachusetts"	"25"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	42	5666330	0.7
+	"Massachusetts"	"25"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	11	5670599	Unreliable
+	"Massachusetts"	"25"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	5670599	Unreliable
+	"Massachusetts"	"25"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	117	5670599	2.1
+	"Massachusetts"	"25"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	46	5670599	0.8
+	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	366543	Unreliable
+	"Michigan"	"26"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	38	1493499	2.5
+	"Michigan"	"26"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	344	1493499	23.0
+	"Michigan"	"26"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11	1496029	Unreliable
+	"Michigan"	"26"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	53	1496029	3.5
+	"Michigan"	"26"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	360	1496029	24.1
+	"Michigan"	"26"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	76	8029056	0.9
+	"Michigan"	"26"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	122	8029056	1.5
+	"Michigan"	"26"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	432	8029056	5.4
+	"Michigan"	"26"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	77	8029056	1.0
+	"Michigan"	"26"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	133	8041198	1.7
+	"Michigan"	"26"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	132	8041198	1.6
+	"Michigan"	"26"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	455	8041198	5.7
+	"Michigan"	"26"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	11	8041198	Unreliable
+	"Michigan"	"26"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	90	8041198	1.1
+	"Minnesota"	"27"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	36	406448	8.9
+	"Minnesota"	"27"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	30	423054	7.1
+	"Minnesota"	"27"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	115	4779768	2.4
+	"Minnesota"	"27"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	79	4779768	1.7
+	"Minnesota"	"27"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	151	4779768	3.2
+	"Minnesota"	"27"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	33	4779768	0.7
+	"Minnesota"	"27"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	100	4791431	2.1
+	"Minnesota"	"27"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	59	4791431	1.2
+	"Minnesota"	"27"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	177	4791431	3.7
+	"Minnesota"	"27"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	18	4791431	Unreliable
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	10	1142650	Unreliable
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	25	1142650	2.2
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	17	1142650	Unreliable
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	201	1142650	17.6
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	11	1145398	Unreliable
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	35	1145398	3.1
+	"Mississippi"	"28"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	247	1145398	21.6
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	64	1785378	3.6
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	27	1785378	1.5
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	165	1785378	9.2
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	10	1785378	Unreliable
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	56	1785378	3.1
+	"Mississippi"	"28"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	10	1785378	Unreliable
+	"Mississippi"	"28"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	10	1785077	Unreliable
+	"Mississippi"	"28"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	52	1785077	2.9
+	"Mississippi"	"28"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	1785077	Unreliable
+	"Mississippi"	"28"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	200	1785077	11.2
+	"Mississippi"	"28"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	56	1785077	3.1
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	10	768926	Unreliable
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	33	768926	4.3
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	385	768926	50.1
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	20	772024	2.6
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	28	772024	3.6
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	362	772024	46.9
+	"Missouri"	"29"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	18	5152579	Unreliable
+	"Missouri"	"29"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	227	5152579	4.4
+	"Missouri"	"29"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	88	5152579	1.7
+	"Missouri"	"29"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	336	5152579	6.5
+	"Missouri"	"29"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	152	5152579	2.9
+	"Missouri"	"29"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	240	5156415	4.7
+	"Missouri"	"29"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	89	5156415	1.7
+	"Missouri"	"29"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	344	5156415	6.7
+	"Missouri"	"29"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	5156415	Unreliable
+	"Missouri"	"29"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	167	5156415	3.2
+	"Montana"	"30"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	55	952702	5.8
+	"Montana"	"30"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	952702	Unreliable
+	"Montana"	"30"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	129	952702	13.5
+	"Montana"	"30"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	15	952702	Unreliable
+	"Montana"	"30"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	33	962460	3.4
+	"Montana"	"30"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	962460	Unreliable
+	"Montana"	"30"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	106	962460	11.0
+	"Montana"	"30"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	11	962460	Unreliable
+	"Nebraska"	"31"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	13	111036	Unreliable
+	"Nebraska"	"31"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	113369	Unreliable
+	"Nebraska"	"31"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	20	1722394	1.2
+	"Nebraska"	"31"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	28	1722394	1.6
+	"Nebraska"	"31"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	72	1722394	4.2
+	"Nebraska"	"31"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	12	1722394	Unreliable
+	"Nebraska"	"31"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	18	1725837	Unreliable
+	"Nebraska"	"31"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	21	1725837	1.2
+	"Nebraska"	"31"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	105	1725837	6.1
+	"Nebraska"	"31"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	11	1725837	Unreliable
+	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	12	314262	Unreliable
+	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	315944	Unreliable
+	"Nevada"	"32"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	15	328672	Unreliable
+	"Nevada"	"32"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	55	328672	16.7
+	"Nevada"	"32"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	61	341394	17.9
+	"Nevada"	"32"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	61	2297024	2.7
+	"Nevada"	"32"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	2297024	Unreliable
+	"Nevada"	"32"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	214	2297024	9.3
+	"Nevada"	"32"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	78	2297024	3.4
+	"Nevada"	"32"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	103	2317575	4.4
+	"Nevada"	"32"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15	2317575	Unreliable
+	"Nevada"	"32"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	212	2317575	9.1
+	"Nevada"	"32"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	82	2317575	3.5
+	"New Hampshire"	"33"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	71	1271499	5.6
+	"New Hampshire"	"33"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	14	1271499	Unreliable
+	"New Hampshire"	"33"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	44	1271499	3.5
+	"New Hampshire"	"33"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	72	1279355	5.6
+	"New Hampshire"	"33"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	1279355	Unreliable
+	"New Hampshire"	"33"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	45	1279355	3.5
+	"New Hampshire"	"33"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	1279355	Unreliable
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	18	1412387	Unreliable
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	195	1412387	13.8
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	1404125	Unreliable
+	"New Jersey"	"34"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	163	1404125	11.6
+	"New Jersey"	"34"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	24	6583130	0.4
+	"New Jersey"	"34"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	150	6583130	2.3
+	"New Jersey"	"34"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	55	6583130	0.8
+	"New Jersey"	"34"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	6511007	0.4
+	"New Jersey"	"34"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	150	6511007	2.3
+	"New Jersey"	"34"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	49	6511007	0.8
+	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	239695	Unreliable
+	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	241055	Unreliable
+	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	18	241055	Unreliable
+	"New Mexico"	"35"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	12	64722	Unreliable
+	"New Mexico"	"35"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	29	1740703	1.7
+	"New Mexico"	"35"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	1740703	1.3
+	"New Mexico"	"35"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	191	1740703	11.0
+	"New Mexico"	"35"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	14	1740703	Unreliable
+	"New Mexico"	"35"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	65	1740703	3.7
+	"New Mexico"	"35"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	41	1744329	2.4
+	"New Mexico"	"35"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	17	1744329	Unreliable
+	"New Mexico"	"35"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	197	1744329	11.3
+	"New Mexico"	"35"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	98	1744329	5.6
+	"New York"	"36"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	30	3695842	0.8
+	"New York"	"36"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	201	3695842	5.4
+	"New York"	"36"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	3634305	0.6
+	"New York"	"36"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	227	3634305	6.2
+	"New York"	"36"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	26	14023221	0.2
+	"New York"	"36"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	97	14023221	0.7
+	"New York"	"36"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	271	14023221	1.9
+	"New York"	"36"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	92	14023221	0.7
+	"New York"	"36"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	20	13837347	0.1
+	"New York"	"36"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	120	13837347	0.9
+	"New York"	"36"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	274	13837347	2.0
+	"New York"	"36"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	117	13837347	0.8
+	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	16	174373	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	10	2364451	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	29	2364451	1.2
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11	2364451	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	41	2364451	1.7
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	35	2364451	1.5
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	2364451	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	302	2364451	12.8
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	17	2394548	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	2394548	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	44	2394548	1.8
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	42	2394548	1.8
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	11	2394548	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	276	2394548	11.5
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	20	7390201	0.3
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	188	7390201	2.5
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	94	7390201	1.3
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	462	7390201	6.3
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	17	7390201	Unreliable
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	29	7390201	0.4
+	"North Carolina"	"37"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	112	7390201	1.5
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	13	7451579	Unreliable
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	215	7451579	2.9
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	105	7451579	1.4
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	468	7451579	6.3
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	11	7451579	Unreliable
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	19	7451579	Unreliable
+	"North Carolina"	"37"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	103	7451579	1.4
+	"North Dakota"	"38"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	26	670004	3.9
+	"North Dakota"	"38"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	670004	3.4
+	"North Dakota"	"38"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	37	670004	5.5
+	"North Dakota"	"38"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	26	670697	3.9
+	"North Dakota"	"38"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	20	670697	3.0
+	"North Dakota"	"38"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23	670697	3.4
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	17	1613123	Unreliable
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	64	1613123	4.0
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	425	1613123	26.3
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	65	1630541	4.0
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	362	1630541	22.2
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	11	9702995	Unreliable
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	118	9702995	1.2
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	88	9702995	0.9
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	624	9702995	6.4
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	9702995	Unreliable
+	"Ohio"	"39"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	157	9702995	1.6
+	"Ohio"	"39"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	104	9698709	1.1
+	"Ohio"	"39"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	78	9698709	0.8
+	"Ohio"	"39"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	707	9698709	7.3
+	"Ohio"	"39"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	165	9698709	1.7
+	"Ohio"	"39"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	11	9698709	Unreliable
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	32	419507	7.6
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	18	419507	Unreliable
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	25	423467	5.9
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	10	423467	Unreliable
+	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	15	423467	Unreliable
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	18	351707	Unreliable
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	28	351707	8.0
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	56	351707	15.9
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	15	353715	Unreliable
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	22	353715	6.2
+	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	46	353715	13.0
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	277	3051867	9.1
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	58	3051867	1.9
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	40	3051867	1.3
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	40	3051867	1.3
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	3051867	Unreliable
+	"Oklahoma"	"40"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	59	3051867	1.9
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	297	3056708	9.7
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	66	3056708	2.2
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	40	3056708	1.3
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	33	3056708	1.1
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	11	3056708	Unreliable
+	"Oklahoma"	"40"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	41	3056708	1.3
+	"Oregon"	"41"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	311	3697722	8.4
+	"Oregon"	"41"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	72	3697722	1.9
+	"Oregon"	"41"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	36	3697722	1.0
+	"Oregon"	"41"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	16	3697722	Unreliable
+	"Oregon"	"41"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	41	3697722	1.1
+	"Oregon"	"41"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	314	3728759	8.4
+	"Oregon"	"41"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	57	3728759	1.5
+	"Oregon"	"41"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	39	3728759	1.0
+	"Oregon"	"41"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	14	3728759	Unreliable
+	"Oregon"	"41"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	37	3728759	1.0
+	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	10	506492	Unreliable
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	54	1617500	3.3
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	391	1617500	24.2
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	43	1632313	2.6
+	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	397	1632313	24.3
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	111	10637357	1.0
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	70	10637357	0.7
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	747	10637357	7.0
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	10637357	Unreliable
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	179	10637357	1.7
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	11	10609745	Unreliable
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	136	10609745	1.3
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	70	10609745	0.7
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	755	10609745	7.1
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	16	10609745	Unreliable
+	"Pennsylvania"	"42"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	149	10609745	1.4
+	"Rhode Island"	"44"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	26	905231	2.9
+	"Rhode Island"	"44"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	11	901715	Unreliable
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	56	1409678	4.0
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	214	1409678	15.2
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	55	1418868	3.9
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	253	1418868	17.8
+	"South Carolina"	"45"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	17	3486473	Unreliable
+	"South Carolina"	"45"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	30	3486473	0.9
+	"South Carolina"	"45"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	413	3486473	11.8
+	"South Carolina"	"45"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	106	3486473	3.0
+	"South Carolina"	"45"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	11	3531746	Unreliable
+	"South Carolina"	"45"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	15	3531746	Unreliable
+	"South Carolina"	"45"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	3531746	Unreliable
+	"South Carolina"	"45"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	398	3531746	11.3
+	"South Carolina"	"45"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	104	3531746	2.9
+	"South Dakota"	"46"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	55	748768	7.3
+	"South Dakota"	"46"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	24	748768	3.2
+	"South Dakota"	"46"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	48	755314	6.4
+	"South Dakota"	"46"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	27	755314	3.6
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	39	1189804	3.3
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	295	1189804	24.8
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	53	1198663	4.4
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	331	1198663	27.6
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	12	5350680	Unreliable
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	57	5350680	1.1
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	50	5350680	0.9
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	553	5350680	10.3
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	5350680	Unreliable
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	150	5350680	2.8
+	"Tennessee"	"47"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	23	5350680	0.4
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	87	5391207	1.6
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	56	5391207	1.0
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	477	5391207	8.8
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	10	5391207	Unreliable
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	148	5391207	2.7
+	"Tennessee"	"47"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	11	5391207	Unreliable
+	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	29	1540052	1.9
+	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	46	1614008	2.9
+	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	18	1614008	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	16	3717259	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	3717259	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	115	3717259	3.1
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	15	3717259	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	3717259	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	488	3717259	13.1
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	12	3803248	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11	3803248	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	126	3803248	3.3
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	3803248	Unreliable
+	"Texas"	"48"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	461	3803248	12.1
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Discharge from other and unspecified firearms"	"W34"	24	22728838	0.1
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	209	22728838	0.9
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	182	22728838	0.8
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	1577	22728838	6.9
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	31	22728838	0.1
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	41	22728838	0.2
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	655	22728838	2.9
+	"Texas"	"48"	"White"	"2106-3"	"2017"	"2017"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	22	22728838	0.1
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Discharge from other and unspecified firearms"	"W34"	26	22961663	0.1
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	210	22961663	0.9
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	201	22961663	0.9
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	1635	22961663	7.1
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	33	22961663	0.1
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	49	22961663	0.2
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	560	22961663	2.4
+	"Texas"	"48"	"White"	"2106-3"	"2018"	"2018"	"Other and unspecified firearm discharge, undetermined intent"	"Y24"	33	22961663	0.1
+	"Utah"	"49"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	175	2866353	6.1
+	"Utah"	"49"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	52	2866353	1.8
+	"Utah"	"49"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	105	2866353	3.7
+	"Utah"	"49"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	38	2866353	1.3
+	"Utah"	"49"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	158	2913538	5.4
+	"Utah"	"49"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	49	2913538	1.7
+	"Utah"	"49"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	117	2913538	4.0
+	"Utah"	"49"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	26	2913538	0.9
+	"Vermont"	"50"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	37	597247	6.2
+	"Vermont"	"50"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	19	597247	Unreliable
+	"Vermont"	"50"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	47	598200	7.9
+	"Vermont"	"50"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	18	598200	Unreliable
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	38	1760262	2.2
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	16	1760262	Unreliable
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	104	1760262	5.9
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	129	1760262	7.3
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	29	1773427	1.6
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	35	1773427	2.0
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	69	1773427	3.9
+	"Virginia"	"51"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	150	1773427	8.5
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	269	6027893	4.5
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	88	6027893	1.5
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	240	6027893	4.0
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	28	6027893	0.5
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	14	6027893	Unreliable
+	"Virginia"	"51"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	57	6027893	0.9
+	"Virginia"	"51"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	200	6045867	3.3
+	"Virginia"	"51"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	75	6045867	1.2
+	"Virginia"	"51"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	323	6045867	5.3
+	"Virginia"	"51"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	23	6045867	0.4
+	"Virginia"	"51"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	72	6045867	1.2
+	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	173187	Unreliable
+	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	16	783704	Unreliable
+	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	16	830775	Unreliable
+	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	10	830775	Unreliable
+	"Washington"	"53"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	11	387793	Unreliable
+	"Washington"	"53"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	39	387793	10.1
+	"Washington"	"53"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	17	403402	Unreliable
+	"Washington"	"53"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	34	403402	8.4
+	"Washington"	"53"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	374	6064494	6.2
+	"Washington"	"53"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	98	6064494	1.6
+	"Washington"	"53"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	121	6064494	2.0
+	"Washington"	"53"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	14	6064494	Unreliable
+	"Washington"	"53"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	90	6064494	1.5
+	"Washington"	"53"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	331	6128227	5.4
+	"Washington"	"53"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	93	6128227	1.5
+	"Washington"	"53"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	121	6128227	2.0
+	"Washington"	"53"	"White"	"2106-3"	"2018"	"2018"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	10	6128227	Unreliable
+	"Washington"	"53"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	97	6128227	1.6
+	"West Virginia"	"54"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	11	74674	Unreliable
+	"West Virginia"	"54"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	12	75210	Unreliable
+	"West Virginia"	"54"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	63	1719416	3.7
+	"West Virginia"	"54"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	45	1719416	2.6
+	"West Virginia"	"54"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	153	1719416	8.9
+	"West Virginia"	"54"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	13	1719416	Unreliable
+	"West Virginia"	"54"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	35	1719416	2.0
+	"West Virginia"	"54"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	62	1708531	3.6
+	"West Virginia"	"54"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	33	1708531	1.9
+	"West Virginia"	"54"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	155	1708531	9.1
+	"West Virginia"	"54"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	41	1708531	2.4
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	13	422159	Unreliable
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	38	422159	9.0
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	76	422159	18.0
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	10	427026	Unreliable
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	33	427026	7.7
+	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	62	427026	14.5
+	"Wisconsin"	"55"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	278	5117202	5.4
+	"Wisconsin"	"55"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	119	5117202	2.3
+	"Wisconsin"	"55"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	14	5117202	Unreliable
+	"Wisconsin"	"55"	"White"	"2106-3"	"2017"	"2017"	"Assault by handgun discharge"	"X93"	25	5117202	0.5
+	"Wisconsin"	"55"	"White"	"2106-3"	"2017"	"2017"	"Assault by other and unspecified firearm discharge"	"X95"	10	5117202	Unreliable
+	"Wisconsin"	"55"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	254	5121396	5.0
+	"Wisconsin"	"55"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	123	5121396	2.4
+	"Wisconsin"	"55"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	21	5121396	0.4
+	"Wisconsin"	"55"	"White"	"2106-3"	"2018"	"2018"	"Assault by handgun discharge"	"X93"	27	5121396	0.5
+	"Wisconsin"	"55"	"White"	"2106-3"	"2018"	"2018"	"Assault by other and unspecified firearm discharge"	"X95"	19	5121396	Unreliable
+	"Wyoming"	"56"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by handgun discharge"	"X72"	35	544781	6.4
+	"Wyoming"	"56"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	544781	Unreliable
+	"Wyoming"	"56"	"White"	"2106-3"	"2017"	"2017"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	48	544781	8.8
+	"Wyoming"	"56"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by handgun discharge"	"X72"	35	542483	6.5
+	"Wyoming"	"56"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	12	542483	Unreliable
+	"Wyoming"	"56"	"White"	"2106-3"	"2018"	"2018"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	59	542483	10.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"ICD-10 Codes: W32 (Handgun discharge); W33 (Rifle, shotgun and larger firearm discharge); W34 (Discharge from other and"
+"unspecified firearms); X72 (Intentional self-harm by handgun discharge); X73 (Intentional self-harm by rifle, shotgun and larger"
+"firearm discharge); X74 (Intentional self-harm by other and unspecified firearm discharge); X93 (Assault by handgun discharge);"
+"X94 (Assault by rifle, shotgun and larger firearm discharge); X95 (Assault by other and unspecified firearm discharge); Y22"
+"(Handgun discharge, undetermined intent); Y23 (Rifle, shotgun and larger firearm discharge, undetermined intent); Y24 (Other and"
+"unspecified firearm discharge, undetermined intent)"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Year/Month: 2017; 2018"
+"Group By: State; Race; Year; Cause of death"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Oct 14, 2020 12:29:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Oct 14, 2020 12:29:49 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
