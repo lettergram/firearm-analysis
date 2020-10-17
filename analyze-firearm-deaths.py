@@ -21,6 +21,10 @@ def create_us_map(geo_us_data, column_to_analyze, title, gif_name, image_dir, co
             subset=[column_to_analyze]
         )
 
+    # Create image directory if necessary
+    if not os.path.exists(image_dir):
+        os.makedirs(image_dir)
+    
     # Generate figures
     ymin, ymax = 0, max(geo_us_data.dropna(
         subset=[column_to_analyze]
@@ -120,15 +124,17 @@ state_data = pd.read_csv(data_file).dropna(how='all')
 # https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 pd.set_option('display.max_columns', None) 
 geo_us_data = geopandas.read_file('data/geo-data')
-geo_us_data = geo_us_data.rename(columns={'NAME': 'STATE'})
-geo_us_data = geo_us_data.merge(state_data, on='STATE')
+geo_us_data = geo_us_data.rename(columns={'NAME': 'State'})
+geo_us_data = geo_us_data.merge(state_data, on='State')
 
 
 
-column_to_analyze = 'Homicides per 100k Inhabitants'
-title = 'Homicides per 100k Inhabitants, United States'
-image_dir = 'images/geo-us-homicide-rate/'
-gif_name = 'images/homicide-rate-us.gif'
+geo_us_data = geo_us_data.groupby(['State', 'Race', 'Year']).sum()
+
+column_to_analyze = 'Firearm Percent of Total Deaths'
+title = 'Homicides via Firearms by Percent of Total Deaths, United States'
+image_dir = 'images/geo-us-firearm-percent-of-total-deaths/'
+gif_name = 'images/geo-us-firearm-percent-of-total-deaths.gif'
 color_map = 'OrRd'
 create_us_map(geo_us_data, column_to_analyze,
               title, gif_name, image_dir, color_map)
