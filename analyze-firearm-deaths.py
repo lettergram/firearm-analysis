@@ -36,6 +36,9 @@ def create_us_map(geo_us_data, column_to_analyze, title, gif_name, image_dir,
     
     for year in years:
 
+        if len(country_data[year][column_to_analyze]) == 0:
+            continue
+        
         print(column_to_analyze + ", Generating " + str(year))
         
         # Assumes matplotlib backend
@@ -102,8 +105,6 @@ create_us_map(
     color_map = 'OrRd'
 )
 
-
-
 ##########################################################
 ################# SEPERATE DATASET #######################
 ##########################################################
@@ -118,6 +119,16 @@ pd.set_option('display.max_columns', None)
 geo_us_data = geopandas.read_file('data/geo-data')
 geo_us_data = geo_us_data.rename(columns={'NAME': 'STATE'})
 geo_us_data = geo_us_data.merge(state_data, on='STATE')
+
+# Firearm Death Rate (per 100k)
+create_us_map(
+    geo_us_data=geo_us_data,    
+    column_to_analyze = 'Homicides per Firearm Owner',
+    title = 'Ratio of Homicides per Firearm Owner, United States',
+    image_dir = 'images/geo-us-ratio-of-homicides-to-firearm-owners/',
+    gif_name = 'images/us-ratio-of-homicides-to-firearm-owners.gif',
+    color_map = 'OrRd'
+)
 
 # Firearm owners
 create_us_map(
@@ -158,6 +169,6 @@ create_us_map(
     title = 'Homicides per 100k Inhabitants, United States',
     image_dir = 'images/geo-us-homicide-rate/',
     gif_name = 'images/homicide-rate-us.gif',
-    color_map = 'OrRd'
+    color_map = 'YlOrRd'
 )
 
